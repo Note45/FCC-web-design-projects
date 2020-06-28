@@ -10,6 +10,9 @@ The projects are developed using HTML, CSS and eventually JavaScript.
 ## Tribute Page
 <img src='./prints-projects/tribute-page.png' alt='Tribute Page Project' width='800px'/>
 
+## Survey Form
+<img src='./prints-projects/survey-form.png' alt='Survey Form Project' width='800px'/>
+
 # License
 
 MIT License
