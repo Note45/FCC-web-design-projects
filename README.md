@@ -6,7 +6,9 @@ Repository for projects constructed in the module Responsive Web Design Projects
 The projects are developed using HTML, CSS and eventually JavaScript.
 
 # How the Project Is Currently
-<img src='./prints-projects/tribute-page.png' alt='Tribute Page Project' width='600px'/>
+
+## Tribute Page
+<img src='./prints-projects/tribute-page.png' alt='Tribute Page Project' width='800px'/>
 
 # License
 
