@@ -13,6 +13,9 @@ The projects are developed using HTML, CSS and eventually JavaScript.
 ## Survey Form
 <img src='./prints-projects/survey-form.png' alt='Survey Form Project' width='800px'/>
 
+## Product Landing Page
+<img src='./prints-projects/product-landing-page.png' alt='Product Landing Page Project' width='800px'/>
+
 # License
 
 MIT License
