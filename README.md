@@ -16,6 +16,9 @@ The projects are developed using HTML, CSS and eventually JavaScript.
 ## Product Landing Page
 <img src='./prints-projects/product-landing-page.png' alt='Product Landing Page Project' width='800px'/>
 
+## Technical Documentation Page
+<img src='./prints-projects/technical-documentation-page.png' alt='Technical Documentation Page' width='800px'/>
+
 # License
 
 MIT License
