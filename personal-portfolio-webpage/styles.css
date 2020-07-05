@@ -38,3 +38,23 @@ body {
   text-decoration: none;
   color: #eee;
 }
+
+#welcome-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  background-color: #202022;
+}
+
+#welcome-section h1 {
+  color: #ffffff;
+  margin-bottom: 0px;
+}
+
+#welcome-section p {
+  color: #be3444;
+  margin-top: 0px;
+}
