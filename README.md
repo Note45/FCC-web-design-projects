@@ -19,6 +19,10 @@ The projects are developed using HTML, CSS and eventually JavaScript.
 ## Technical Documentation Page
 <img src='./prints-projects/technical-documentation-page.png' alt='Technical Documentation Page' width='800px'/>
 
+## Personal Portfolio Webpage
+<img src='./prints-projects/personal-portfolio.png' alt='Personal Portfolio Webpage' width='800px'/>
+<img src='./prints-projects/personal-portfolio-1.png' alt='Personal Portfolio Webpage' width='800px'/>
+
 # License
 
 MIT License
